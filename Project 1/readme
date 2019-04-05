@@ -1,0 +1,5 @@
+A program that read in JSON format. This program read in the number of 
+students and write their id and number of grades then compare which student have 
+the highest score.
+
+Copyright 2019, Diem Dao
